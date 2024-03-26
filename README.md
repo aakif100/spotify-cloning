@@ -1,7 +1,7 @@
 # spotify-flexbox-tutorial-
 
 
-<h2>complete code will pusehd shortly as some functionalities are being added for for good UX...</h2>
+<h2>complete code will pusehd shortly as some functionalities are being added for for good UX(UPDATE:all files uploaded)...</h2>
 <h4>making my own version of spotify with different themes and functionalitites..</h4>
 <h2>PS:its just a representstion purpose not to be hosted or used somewhere</h2>
 

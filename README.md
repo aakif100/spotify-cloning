@@ -1,4 +1,4 @@
-# spotify-flexbox-tutorial-
+# spotify-cloning
 
 
 <h2>complete code will pusehd shortly as some functionalities are being added for for good UX(UPDATE:all files uploaded)...</h2>
